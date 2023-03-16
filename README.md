@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Abhinay Katta</h1>
 <h3 align="center">A guy who codes sometimes</h3>
 
-- 🔭 I’m currently working on **Spam-with-pyhton**
+- 🔭 I’m currently working on **HardCodedBot**
 
 - 🌱 I’m currently learning **Deep Learning and software development**
 
