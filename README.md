@@ -2,4 +2,4 @@ Wakatime since 11th feb,2023: <sub><a href= "https://wakatime.com/@abhikatta"><i
 
 ![Abhinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinay-katta&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay-katta&hide_progress=true)](https://github.com/abhinay-katta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay-katta&langs_count=7&hide_progress=true&layout=compact)](https://github.com/abhinay-katta/github-readme-stats)
